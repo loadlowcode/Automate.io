@@ -1,0 +1,38 @@
+[
+  {
+    "type": "click",
+    "value": "./sprite/NoodleMag/inputsearch.png"
+  },
+  {
+    "type": "write",
+    "value": "pyautogui.typewrite('Nina Elle')"
+  },
+  {
+    "type": "click",
+    "value": "./sprite/NoodleMag/btnsearch.png"
+  },
+  {
+    "type": "click",
+    "value": "./sprite/NoodleMag/nina.png"
+  },
+   {
+    "type": "click",
+    "value": "./sprite/NoodleMag/play.png"
+  },
+  {
+    "type": "click",
+    "value": "./sprite/NoodleMag/download.png"
+  },
+  {
+    "type": "click",
+    "value": "./sprite/NoodleMag/360.png bv"
+  },
+  {
+    "type": "write",
+    "value": "time.sleep(12)"
+  },
+  {
+    "type": "click",
+    "value": "./sprite/NoodleMag/fdownload.png"
+  }
+]
